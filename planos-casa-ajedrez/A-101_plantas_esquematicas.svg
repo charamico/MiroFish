@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="950" viewBox="0 0 1400 950">
+  <title>A-101 Plantas esquematicas - La Casa del Ajedrez</title>
+  <style>
+    text{font-family:Arial,sans-serif;fill:#202124}.title{font-size:24px;font-weight:bold;letter-spacing:1px}.subtitle{font-size:14px;font-weight:bold}.label{font-size:13px;font-weight:bold}.small{font-size:10px}.tiny{font-size:9px}.dim{font-size:11px;fill:#39424e}.wall{stroke:#202124;stroke-width:3;fill:#fff}.partition{stroke:#4c5660;stroke-width:1.5;fill:none}.a{fill:#d9e7ef}.b{fill:#e6ded0}.c{fill:#e8d8d8}.service{fill:#d8e3d2}.circulation{fill:#f5f0df}.note{fill:#f4f0e7;stroke:#777}
+  </style>
+  <rect width="1400" height="950" fill="#fff"/>
+  <text x="50" y="45" class="title">LA CASA DEL AJEDREZ DE LOS ALCARRIZOS</text>
+  <text x="50" y="70" class="subtitle">A-101 | PLANTAS ARQUITECTONICAS ESQUEMATICAS | ANTEPROYECTO</text>
+  <text x="50" y="91" class="small">Base: solar conceptual 100 x 120 m | Unidades: metros | Areas y distribucion sujetos a coordinacion profesional</text>
+
+  <text x="55" y="135" class="subtitle">EDIFICIO A | ADMINISTRATIVO | PB</text>
+  <rect x="55" y="155" width="390" height="260" class="wall"/>
+  <rect x="55" y="155" width="130" height="110" class="a"/><text x="120" y="200" text-anchor="middle" class="label">VESTIBULO</text><text x="120" y="220" text-anchor="middle" class="small">Recepcion / espera</text>
+  <rect x="185" y="155" width="130" height="110" class="a"/><text x="250" y="200" text-anchor="middle" class="label">PABELLON</text><text x="250" y="220" text-anchor="middle" class="small">Fama dominicana</text>
+  <rect x="315" y="155" width="130" height="110" class="a"/><text x="380" y="200" text-anchor="middle" class="label">PRENSA</text><text x="380" y="220" text-anchor="middle" class="small">Streaming / rack</text>
+  <rect x="55" y="265" width="130" height="150" class="circulation"/><text x="120" y="330" text-anchor="middle" class="label">CIRCULACION</text><text x="120" y="350" text-anchor="middle" class="small">Nucleo vertical</text><text x="120" y="370" text-anchor="middle" class="small">Ascensor + escalera</text>
+  <rect x="185" y="265" width="130" height="150" class="a"/><text x="250" y="315" text-anchor="middle" class="label">ADMIN.</text><text x="250" y="335" text-anchor="middle" class="small">Coordinacion</text><text x="250" y="355" text-anchor="middle" class="small">Mercadeo / reunion</text><text x="250" y="375" text-anchor="middle" class="small">Psicologia</text>
+  <rect x="315" y="265" width="130" height="150" class="service"/><text x="380" y="315" text-anchor="middle" class="label">APOYO</text><text x="380" y="335" text-anchor="middle" class="small">Biblioteca / almacen</text><text x="380" y="355" text-anchor="middle" class="small">Enfermeria / lactancia</text><text x="380" y="375" text-anchor="middle" class="small">Banos / office</text>
+  <text x="55" y="438" class="dim">Huella indicativa 390 m2 | El programa completo requiere ampliacion a 600-650 m2</text>
+
+  <text x="490" y="135" class="subtitle">EDIFICIO B | ACADEMICO | NIVEL TIPO</text>
+  <rect x="490" y="155" width="430" height="260" class="wall"/>
+  <rect x="490" y="155" width="100" height="130" class="b"/><text x="540" y="205" text-anchor="middle" class="label">AULA 1</text><text x="540" y="225" text-anchor="middle" class="small">40 m2 / 30 alumnos</text><text x="540" y="245" text-anchor="middle" class="small">Tabique movil</text>
+  <rect x="590" y="155" width="100" height="130" class="b"/><text x="640" y="205" text-anchor="middle" class="label">AULA 2</text><text x="640" y="225" text-anchor="middle" class="small">40 m2 / 30 alumnos</text><text x="640" y="245" text-anchor="middle" class="small">Tabique movil</text>
+  <rect x="690" y="155" width="100" height="130" class="b"/><text x="740" y="205" text-anchor="middle" class="label">AULA 3</text><text x="740" y="205" text-anchor="middle" class="label" dy="20">40 m2</text><text x="740" y="245" text-anchor="middle" class="small">30 alumnos</text>
+  <rect x="790" y="155" width="130" height="130" class="circulation"/><text x="855" y="205" text-anchor="middle" class="label">NUCLEO</text><text x="855" y="225" text-anchor="middle" class="small">Ascensor camilla</text><text x="855" y="245" text-anchor="middle" class="small">Escaleras / banos</text>
+  <rect x="490" y="285" width="100" height="130" class="b"/><text x="540" y="335" text-anchor="middle" class="label">AULA 4</text><text x="540" y="355" text-anchor="middle" class="small">40 m2 / 30 alumnos</text>
+  <rect x="590" y="285" width="200" height="130" class="circulation"/><text x="690" y="335" text-anchor="middle" class="label">PASILLO / ANALISIS</text><text x="690" y="355" text-anchor="middle" class="small">Practica y encuentro</text><text x="690" y="375" text-anchor="middle" class="small">Ancho indicativo 2.00 m</text>
+  <rect x="790" y="285" width="130" height="130" class="service"/><text x="855" y="335" text-anchor="middle" class="label">APOYO</text><text x="855" y="355" text-anchor="middle" class="small">Deposito / IDF</text><text x="855" y="375" text-anchor="middle" class="small">Banos / limpieza</text>
+  <text x="490" y="438" class="dim">Niveles 1-3: 4 aulas por nivel | PB agrega computo/practica | Nivel 3 agrega usos multiples/biblioteca</text>
+
+  <text x="965" y="135" class="subtitle">EDIFICIO C | EVENTOS | PB</text>
+  <rect x="965" y="155" width="380" height="260" class="wall"/>
+  <rect x="965" y="155" width="260" height="190" class="c"/><text x="1095" y="225" text-anchor="middle" class="label">SALON PRINCIPAL</text><text x="1095" y="248" text-anchor="middle" class="small">600 m2 | 30 x 20 m</text><text x="1095" y="268" text-anchor="middle" class="small">400 jugadores / teatro 450</text><text x="1095" y="288" text-anchor="middle" class="small">Mamparas moviles</text><text x="1095" y="308" text-anchor="middle" class="small">3 salas de 200 m2</text>
+  <rect x="1225" y="155" width="120" height="95" class="circulation"/><text x="1285" y="195" text-anchor="middle" class="label">LOBBY</text><text x="1285" y="215" text-anchor="middle" class="small">Registro / resultados</text>
+  <rect x="1225" y="250" width="120" height="95" class="service"/><text x="1285" y="285" text-anchor="middle" class="label">TECNICO</text><text x="1285" y="305" text-anchor="middle" class="small">AV / arbitros</text><text x="1285" y="325" text-anchor="middle" class="small">Comentaristas</text>
+  <rect x="965" y="345" width="125" height="70" class="service"/><text x="1027" y="375" text-anchor="middle" class="label">VIP</text><text x="1027" y="393" text-anchor="middle" class="small">25 m2</text>
+  <rect x="1090" y="345" width="135" height="70" class="service"/><text x="1157" y="375" text-anchor="middle" class="label">ALMACEN</text><text x="1157" y="393" text-anchor="middle" class="small">Equipos / catering</text>
+  <rect x="1225" y="345" width="120" height="70" class="service"/><text x="1285" y="375" text-anchor="middle" class="label">BANOS</text><text x="1285" y="393" text-anchor="middle" class="small">+ inclusivos</text>
+  <text x="965" y="438" class="dim">Salidas, carga y emergencia se verifican con aforo, NFPA 101 y normativa local</text>
+
+  <text x="55" y="505" class="subtitle">ESQUEMA DE COORDINACION VERTICAL Y SOTANO</text>
+  <rect x="55" y="530" width="710" height="250" class="wall"/>
+  <line x1="55" y1="650" x2="765" y2="650" class="partition"/>
+  <rect x="75" y="550" width="190" height="80" class="a"/><text x="170" y="585" text-anchor="middle" class="label">A | ADMINISTRATIVO</text><text x="170" y="605" text-anchor="middle" class="small">PB + cubierta tecnica</text>
+  <rect x="315" y="550" width="190" height="80" class="b"/><text x="410" y="585" text-anchor="middle" class="label">B | ACADEMICO</text><text x="410" y="605" text-anchor="middle" class="small">PB + 2 niveles</text>
+  <rect x="555" y="550" width="190" height="80" class="c"/><text x="650" y="585" text-anchor="middle" class="label">C | EVENTOS</text><text x="650" y="605" text-anchor="middle" class="small">PB + cubierta tecnica</text>
+  <rect x="75" y="675" width="670" height="80" class="service"/><text x="410" y="710" text-anchor="middle" class="label">BASE COMUN / SOTANO</text><text x="410" y="730" text-anchor="middle" class="small">80 vehiculos + 80 motos + 50 bicis | rampas, cuartos tecnicos, cisterna, carga</text>
+  <path d="M170 630V675M410 630V675M650 630V675" stroke="#39424e" stroke-width="2" stroke-dasharray="7 5"/>
+
+  <rect x="810" y="530" width="535" height="250" class="note"/>
+  <text x="830" y="560" class="label">CRITERIOS DE PLANO</text>
+  <text x="830" y="590" class="small">1. Ejes, cotas definitivas y espesores se definen con levantamiento.</text>
+  <text x="830" y="615" class="small">2. La huella dibujada es diagramatica, no representa escala ejecutiva.</text>
+  <text x="830" y="640" class="small">3. Nucleos verticales deben alinearse con rutas de evacuacion.</text>
+  <text x="830" y="665" class="small">4. Reservar patinillos para electricidad, agua, HVAC y datos.</text>
+  <text x="830" y="690" class="small">5. Coordinar accesibilidad, incendio y aforo antes de construir.</text>
+  <text x="830" y="735" class="label">REVISION: 0 | FECHA: 23-08-2026</text>
+  <text x="55" y="850" class="tiny">DOCUMENTO DE ANTEPROYECTO | No apto para construccion | Requiere arquitecto e ingenieros habilitados en Republica Dominicana</text>
+</svg>
